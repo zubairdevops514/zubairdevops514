@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zubairdevops514/zubairdevops514/main/assets/banner.png" alt="Zubair — Cloud, DevOps and AI. Infrastructure. Automation. Applied AI." width="100%" />
+  <img src="https://raw.githubusercontent.com/zubairdevops514/zubairdevops514/7d83f1f8ac1d3b446751df1a0f9bad354a6f2eb4/assets/banner.png" alt="Zubair — Cloud, DevOps and AI. Infrastructure. Automation. Applied AI." width="100%" />
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="#selected-builds">Explore my projects</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#02--selected-builds">Explore my projects</a> &nbsp; / &nbsp;
+  <a href="#03--toolbox">Toolbox</a> &nbsp; / &nbsp;
   <a href="https://github.com/zubairdevops514?tab=repositories">All repositories ↗</a>
 </p>
 
@@ -20,8 +20,6 @@
 Hi, I'm **Zubair**. I'm building a Cloud, DevOps, and AI engineering portfolio around useful problems: finding the right runbook during an incident, processing documents reliably, and spotting unexpected cloud spend.
 
 I focus on **clear architecture, reproducible demos, meaningful tests, and honest documentation**. My projects make their tradeoffs and verification status visible.
-
-<a id="selected-builds"></a>
 
 ### `02 / SELECTED BUILDS`
 
@@ -57,11 +55,9 @@ I focus on **clear architecture, reproducible demos, meaningful tests, and hones
   <a href="https://github.com/zubairdevops514/cloud-cost-anomaly-detector/actions"><img src="https://github.com/zubairdevops514/cloud-cost-anomaly-detector/actions/workflows/checks.yml/badge.svg" alt="Cost detector checks" /></a>
 </p>
 
-<a id="toolbox"></a>
-
 ### `03 / TOOLBOX`
 
-<img src="https://raw.githubusercontent.com/zubairdevops514/zubairdevops514/main/assets/toolbox.svg" alt="Project toolbox: AWS, Python, Docker, Kubernetes, Bedrock, and GitHub Actions" width="100%" />
+<img src="https://raw.githubusercontent.com/zubairdevops514/zubairdevops514/7d83f1f8ac1d3b446751df1a0f9bad354a6f2eb4/assets/toolbox.svg" alt="Project toolbox: AWS, Python, Docker, Kubernetes, Bedrock, and GitHub Actions" width="100%" />
 
 **Working style:** test failure paths · automate repeatable work · document decisions · measure before claiming results
 
