@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zubairdevops514/zubairdevops514/7d83f1f8ac1d3b446751df1a0f9bad354a6f2eb4/assets/banner.png" alt="Zubair — Cloud, DevOps and AI. Infrastructure. Automation. Applied AI." width="100%" />
+  <img src="https://raw.githubusercontent.com/zubairdevops514/zubairdevops514/7d83f1f8ac1d3b446751df1a0f9bad354a6f2eb4/assets/banner.png" alt="Zubair — InfraStructure, Cloud, DevOps and AI. Infrastructure. Automation. Applied AI." width="100%" />
 </p>
 
 <p align="center">
