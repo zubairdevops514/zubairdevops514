@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Cloud and AI project toolbox">
+  <rect x="1" y="1" width="1198" height="108" rx="14" fill="#0b1424" stroke="#20334c"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" text-anchor="middle">
+    <g fill="#122338" stroke="#294360">
+      <rect x="25" y="25" width="150" height="60" rx="8"/>
+      <rect x="195" y="25" width="150" height="60" rx="8"/>
+      <rect x="365" y="25" width="150" height="60" rx="8"/>
+      <rect x="535" y="25" width="185" height="60" rx="8"/>
+      <rect x="740" y="25" width="170" height="60" rx="8"/>
+      <rect x="930" y="25" width="245" height="60" rx="8"/>
+    </g>
+    <g font-size="19" font-weight="600" fill="#7de4ff">
+      <text x="100" y="63">AWS</text>
+      <text x="270" y="63">PYTHON</text>
+      <text x="440" y="63">DOCKER</text>
+      <text x="627" y="63">KUBERNETES</text>
+      <text x="825" y="63">BEDROCK</text>
+      <text x="1052" y="63">GITHUB ACTIONS</text>
+    </g>
+  </g>
+</svg>
